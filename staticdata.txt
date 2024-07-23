@@ -7,7 +7,7 @@
       "checkFunction": "highestFinishedZone",
       "rewardParams": "",
       "name": "Zone Explorer",
-      "checkParams": "10",
+      "checkParams": "1",
       "description": "Finish %1 zones.",
       "rewardFunction": ""
     },
@@ -18,7 +18,7 @@
       "checkFunction": "highestFinishedZone",
       "rewardParams": "",
       "name": "Zone Warrior",
-      "checkParams": "25",
+      "checkParams": "1",
       "description": "Finish %1 zones.",
       "rewardFunction": ""
     },
@@ -29,7 +29,7 @@
       "checkFunction": "highestFinishedZone",
       "rewardParams": "",
       "name": "Zone Master",
-      "checkParams": "50",
+      "checkParams": "1",
       "description": "Finish %1 zones.",
       "rewardFunction": ""
     },
@@ -40,7 +40,7 @@
       "checkFunction": "highestFinishedZone",
       "rewardParams": "",
       "name": "Zone Lord",
-      "checkParams": "100",
+      "checkParams": "1",
       "description": "Finish %1 zones.",
       "rewardFunction": ""
     },
@@ -51,7 +51,7 @@
       "checkFunction": "totalClicks",
       "rewardParams": "",
       "name": "Proficient Clicking",
-      "checkParams": "1000",
+      "checkParams": "1",
       "description": "Click %1 times.",
       "rewardFunction": ""
     },
@@ -62,7 +62,7 @@
       "checkFunction": "totalClicks",
       "rewardParams": "",
       "name": "Sore Finger",
-      "checkParams": "10000",
+      "checkParams": "1",
       "description": "Click %1 times.",
       "rewardFunction": ""
     },
@@ -73,7 +73,7 @@
       "checkFunction": "totalClicks",
       "rewardParams": "",
       "name": "Carpal Tunnel",
-      "checkParams": "50000",
+      "checkParams": "1",
       "description": "Click %1 times.",
       "rewardFunction": ""
     },
@@ -84,7 +84,7 @@
       "checkFunction": "totalClicks",
       "rewardParams": "",
       "name": "Broken Mouse",
-      "checkParams": "100000",
+      "checkParams": "1",
       "description": "Click %1 times.",
       "rewardFunction": ""
     },
@@ -95,7 +95,7 @@
       "checkFunction": "totalGold",
       "rewardParams": "",
       "name": "Uptown",
-      "checkParams": "1000000",
+      "checkParams": "1",
       "description": "Receive (cumulative) %1 gold.",
       "rewardFunction": ""
     },
@@ -106,7 +106,7 @@
       "checkFunction": "totalGold",
       "rewardParams": "",
       "name": "Fat Cat",
-      "checkParams": "1000000000",
+      "checkParams": "1",
       "description": "Receive (cumulative) %1 gold.",
       "rewardFunction": ""
     },
@@ -117,7 +117,7 @@
       "checkFunction": "totalGold",
       "rewardParams": "",
       "name": "Loaded",
-      "checkParams": "100000000000000",
+      "checkParams": "1",
       "description": "Receive (cumulative) %1 gold.",
       "rewardFunction": ""
     },
@@ -128,7 +128,7 @@
       "checkFunction": "totalGold",
       "rewardParams": "",
       "name": "The 1%",
-      "checkParams": "1000000000000000000",
+      "checkParams": "1",
       "description": "Receive (cumulative) %1 gold.",
       "rewardFunction": ""
     },
@@ -139,7 +139,7 @@
       "checkFunction": "gold",
       "rewardParams": "",
       "name": "Frugal",
-      "checkParams": "500000",
+      "checkParams": "1",
       "description": "Hoard %1 gold.",
       "rewardFunction": ""
     },
@@ -150,7 +150,7 @@
       "checkFunction": "gold",
       "rewardParams": "",
       "name": "Stingy",
-      "checkParams": "5000000000",
+      "checkParams": "1",
       "description": "Hoard %1 gold.",
       "rewardFunction": ""
     },
@@ -161,7 +161,7 @@
       "checkFunction": "gold",
       "rewardParams": "",
       "name": "Miserly",
-      "checkParams": "50000000000000",
+      "checkParams": "1",
       "description": "Hoard %1 gold.",
       "rewardFunction": ""
     },
@@ -172,7 +172,7 @@
       "checkFunction": "gold",
       "rewardParams": "",
       "name": "Greedy",
-      "checkParams": "500000000000000000",
+      "checkParams": "1",
       "description": "Hoard %1 gold.",
       "rewardFunction": ""
     },
@@ -183,7 +183,7 @@
       "checkFunction": "totalKills",
       "rewardParams": "",
       "name": "Killer",
-      "checkParams": "100",
+      "checkParams": "1",
       "description": "Kill %1 monsters.",
       "rewardFunction": ""
     },
@@ -194,7 +194,7 @@
       "checkFunction": "totalKills",
       "rewardParams": "",
       "name": "Butcher",
-      "checkParams": "1000",
+      "checkParams": "1",
       "description": "Kill %1 monsters.",
       "rewardFunction": ""
     },
@@ -205,7 +205,7 @@
       "checkFunction": "totalKills",
       "rewardParams": "",
       "name": "Executioner",
-      "checkParams": "10000",
+      "checkParams": "1",
       "description": "Kill %1 monsters.",
       "rewardFunction": ""
     },
@@ -216,7 +216,7 @@
       "checkFunction": "totalKills",
       "rewardParams": "",
       "name": "Holocaust",
-      "checkParams": "100000",
+      "checkParams": "1",
       "description": "Kill %1 monsters.",
       "rewardFunction": ""
     },
@@ -227,7 +227,7 @@
       "checkFunction": "totalBossKills",
       "rewardParams": "",
       "name": "Boss Slaughter",
-      "checkParams": "10",
+      "checkParams": "1",
       "description": "Kill %1 bosses.",
       "rewardFunction": ""
     },
@@ -238,7 +238,7 @@
       "checkFunction": "totalBossKills",
       "rewardParams": "",
       "name": "Boss Massacre",
-      "checkParams": "100",
+      "checkParams": "1",
       "description": "Kill %1 bosses.",
       "rewardFunction": ""
     },
@@ -249,7 +249,7 @@
       "checkFunction": "totalBossKills",
       "rewardParams": "",
       "name": "Boss Exterminator",
-      "checkParams": "1000",
+      "checkParams": "1",
       "description": "Kill %1 bosses.",
       "rewardFunction": ""
     },
@@ -260,7 +260,7 @@
       "checkFunction": "totalBossKills",
       "rewardParams": "",
       "name": "Boss Murderer",
-      "checkParams": "10000",
+      "checkParams": "1",
       "description": "Kill %1 bosses.",
       "rewardFunction": ""
     },
@@ -271,7 +271,7 @@
       "checkFunction": "totalUpgrades",
       "rewardParams": "",
       "name": "Considerate",
-      "checkParams": "25",
+      "checkParams": "1",
       "description": "Get %1 hero upgrades.",
       "rewardFunction": ""
     },
@@ -282,7 +282,7 @@
       "checkFunction": "totalUpgrades",
       "rewardParams": "",
       "name": "Generous",
-      "checkParams": "50",
+      "checkParams": "1",
       "description": "Get %1 hero upgrades.",
       "rewardFunction": ""
     },
@@ -293,7 +293,7 @@
       "checkFunction": "totalUpgrades",
       "rewardParams": "",
       "name": "Benevolent",
-      "checkParams": "75",
+      "checkParams": "1",
       "description": "Get %1 hero upgrades.",
       "rewardFunction": ""
     },
@@ -304,7 +304,7 @@
       "checkFunction": "totalUpgrades",
       "rewardParams": "",
       "name": "Magnanimous",
-      "checkParams": "83",
+      "checkParams": "1",
       "description": "Get %1 hero upgrades.",
       "rewardFunction": ""
     },
@@ -315,7 +315,7 @@
       "checkFunction": "totalHeroLevels",
       "rewardParams": "",
       "name": "Guide",
-      "checkParams": "10",
+      "checkParams": "1",
       "description": "Level up heroes %1 times.",
       "rewardFunction": ""
     },
@@ -326,7 +326,7 @@
       "checkFunction": "totalHeroLevels",
       "rewardParams": "",
       "name": "Coach",
-      "checkParams": "100",
+      "checkParams": "1",
       "description": "Level up heroes %1 times.",
       "rewardFunction": ""
     },
@@ -337,7 +337,7 @@
       "checkFunction": "totalHeroLevels",
       "rewardParams": "",
       "name": "Teacher",
-      "checkParams": "1000",
+      "checkParams": "1",
       "description": "Level up heroes %1 times.",
       "rewardFunction": ""
     },
@@ -348,7 +348,7 @@
       "checkFunction": "totalHeroLevels",
       "rewardParams": "",
       "name": "Mentor",
-      "checkParams": "10000",
+      "checkParams": "1",
       "description": "Level up heroes %1 times.",
       "rewardFunction": ""
     },
